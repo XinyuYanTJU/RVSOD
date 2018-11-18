@@ -6,6 +6,8 @@
 
 ===============================================================================
 
+
+
 The dataset can be downloaded from:
 
 Google disk：https://drive.google.com/……
@@ -71,8 +73,13 @@ According to the eye fixation points annotation files， the number of eye fixat
 
 **----------------------------------------------------Figure 2.Algorithm---------------------------------------------------**
 
-![Image text](https://github.com/yxy452710960/RVSOD/blob/master/img/DatasetShow.jpg)
-**--------------------------------------------------Figure 3.DatasetDisplay--------------------------------------------------**
+
+![Image text](https://github.com/yxy452710960/RVSOD/blob/master/img/Diving-Side_001.gif)
+![Image text](https://github.com/yxy452710960/RVSOD/blob/master/img/actioncliptest00001.gif)
+![Image text](https://github.com/yxy452710960/RVSOD/blob/master/img/actioncliptrain00426.gif)
+![Image text](https://github.com/yxy452710960/RVSOD/blob/master/img/actioncliptrain00728.gif)
+
+**--------------------------------------------------Figure 3.DatasetDisplay------------------------------------------------**
 
 
 ===============================================================================
