@@ -2,7 +2,7 @@
 
 ===============================================================================
 
-#### Designed by Zheng Wang,Xinyu Yan.
+#### Designed by Zheng Wang,Xinyu Yan,MeiJun Sun.
 
 ===============================================================================
 
@@ -48,6 +48,7 @@ Testing set: 109 videos,3176 labeled frames.
 
 Therefore, in these contexts, it is very necessary to propose a large-scale video saliency object dataset that is specifically targeted at saliency object detection and that can reflect different degrees of saliency between objects.
 
+
 ===============================================================================
 ![Image text](https://raw.githubusercontent.com/yxy452710960/RVSOD/master/img/Process.png)
 **-------------------------------------------Figure 1.Dataset labeling process-------------------------------------------**
@@ -65,9 +66,13 @@ Manually mark the objects O1, O2, ... On in each frame of the image with eye fix
 
 According to the eye fixation points annotation files, the number of eye fixation points on each marked object in each frame image is calculated. The object with the highest number of eye fixation points is considered to be the most salient object, and the gray values of its pixels are set to 1.And the gray values of the pixels of the remaining objects are set according to the ratio of the number of eye fixation points to the number of eye fixation points of the most salient object.In this way, in each video frame, the gray values of the salient objects are distributed between 0 and 1.More eye fixation points placed on the object means higher degree of saliency.And the gray values of the pixels are closer to 1.Conversely,these gray values are near to 0.(such as the ones shown in Fig. 1(②))
 
+
 ![Image text](https://raw.githubusercontent.com/yxy452710960/RVSOD/master/img/Algorithm.jpg)
 
+**----------------------------------------------------Figure 2.Algorithm---------------------------------------------------**
 
+![Image text](https://github.com/yxy452710960/RVSOD/blob/master/img/DatasetShow.jpg)
+**--------------------------------------------------Figure 3.DatasetDisplay--------------------------------------------------**
 
 
 ===============================================================================
