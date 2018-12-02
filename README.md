@@ -89,3 +89,4 @@ According to the eye fixation points annotation files， the number of eye fixat
 ===============================================================================
 ### Contact Information Email:
 wzheng@tju.edu.cn
+xinyuyan@tju.edu.cn
