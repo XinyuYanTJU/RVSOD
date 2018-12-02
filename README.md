@@ -2,7 +2,7 @@
 
 ===============================================================================
 
-#### Designed by Zheng Wang, Xinyu Yan, MeiJun Sun.
+#### Designed by Zheng Wang, Xinyu Yan, MeiJun Sun and Huchuan Lu.
 
 ===============================================================================
 
