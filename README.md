@@ -12,7 +12,7 @@ The dataset can be downloaded from:
 
 Google disk：https://drive.google.com/……
 
-Baidu pan：https://pan.baidu.com/……
+Baidu pan：https://github.com/yxy452710960/RVSOD/edit/master/README.md
 
 ===============================================================================
 
