@@ -27,7 +27,11 @@ Baidu pan：https://pan.baidu.com/s/1M2Vh8DCdCzukwxTliu-rQg
 
 'manually annotated masks':manually annotated masks of salient object segmentation in '.png' format
 
-'ranking saliency masks': masks of salient objects with gray values of 0 to 1 in '.png' and mat formats
+'ranking saliency masks/mat': masks of salient objects with gray values of 0 to 1 in mat files
+
+'ranking saliency masks/img': masks of salient objects with gray values of 0 to 1 in '.png' format
+
+'readme.txt': introduction to the dataset
 
 ===============================================================================
 ### Dataset splitting:
