@@ -91,3 +91,9 @@ According to the eye fixation points annotation files， the number of eye fixat
 wzheng@tju.edu.cn
 
 xinyuyan@tju.edu.cn
+
+===============================================================================
+### Acknowledgement：
+Thanks for the comments on this work from Ziqi Zhou，Pan Li and Xue Zhang in our lab.
+
+===============================================================================
